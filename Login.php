@@ -17,7 +17,14 @@ class Login {
 		echo "Email de recuperação de senha";
 	}
 
+
 	public function logar_facebook(){
 		
 	}
+
+
+	public function novoMethod(){
+		echo "";
+	}
+
 }
