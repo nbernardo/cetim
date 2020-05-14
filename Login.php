@@ -18,4 +18,8 @@ class Login {
 	}
 
 
+	public function novoMethod(){
+		echo "";
+	}
+
 }
